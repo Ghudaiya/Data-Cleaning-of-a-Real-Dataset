@@ -5,6 +5,6 @@ Location, Funds Raised, Layoffs and etc.
 I have focused on various aspects of cleaning such as:
   removing duplicates and Null values
   removing extra rows and columns 
-  stadardizing the data
+  standardizing the data and
   changing formats
 
